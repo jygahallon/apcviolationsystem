@@ -66,6 +66,15 @@ font-family: 'Poppins', sans-serif;*/
   /* account on top of side bar*/
   .account{
       padding: 10px;
-      align: center;
+      align-content: center;
       text-align: center;
+  }
+
+  .centerpiece {
+    margin: auto;
+    width: 50%;
+    height: 90%;
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    padding: 10px;
   }
